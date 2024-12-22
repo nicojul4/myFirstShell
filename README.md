@@ -20,9 +20,9 @@ This script is handy for Linux users who want to keep their system clean by dele
 
 ## Installation
 1. Download or Copy the Script
-You can copy this script into a file with the extension `.sh` (for example `clean_temp_files.sh`).
+You can copy this script into a file with the extension `.sh` (for example `pembersih_sampah.sh`).
 
 2. Give Execution Permission to the Script
 After the script is copied, make sure the script has execution permission. You can give execution permission with the following command:
 ```bash
-chmod +x clean_temp_files.sh
+chmod +x pembersih_sampah.sh
